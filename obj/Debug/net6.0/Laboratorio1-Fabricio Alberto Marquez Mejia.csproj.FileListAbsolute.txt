@@ -1,0 +1,8 @@
+C:\Users\ThinkPad\Downloads\Laboratorio1-Fabricio Alberto Marquez Mejia\obj\Debug\net6.0\Laboratorio1-Fabricio Alberto Marquez Mejia.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Downloads\Laboratorio1-Fabricio Alberto Marquez Mejia\obj\Debug\net6.0\Laboratorio1-Fabricio Alberto Marquez Mejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Downloads\Laboratorio1-Fabricio Alberto Marquez Mejia\obj\Debug\net6.0\Laboratorio1-Fabricio Alberto Marquez Mejia.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Downloads\Laboratorio1-Fabricio Alberto Marquez Mejia\obj\Debug\net6.0\Laboratorio1-Fabricio Alberto Marquez Mejia.AssemblyInfo.cs
+C:\Users\ThinkPad\Downloads\Laboratorio1-Fabricio Alberto Marquez Mejia\obj\Debug\net6.0\Laboratorio1-Fabricio Alberto Marquez Mejia.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Downloads\Laboratorio1-Fabricio Alberto Marquez Mejia\obj\Debug\net6.0\Laboratorio1-Fabricio Alberto Marquez Mejia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ThinkPad\Downloads\Laboratorio1-Fabricio Alberto Marquez Mejia\obj\Debug\net6.0\Laboratorio1-Fabricio Alberto Marquez Mejia.RazorAssemblyInfo.cache
+C:\Users\ThinkPad\Downloads\Laboratorio1-Fabricio Alberto Marquez Mejia\obj\Debug\net6.0\Laboratorio1-Fabricio Alberto Marquez Mejia.RazorAssemblyInfo.cs
